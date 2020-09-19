@@ -23,6 +23,7 @@ Possible brands are: "ASICS","CONVERSE","JORDAN","NEW BALANCE","NIKE","PUMA","RE
 Possible genders are: "CHILD", "INFANT", "MEN", "PRESCHOOL", "TODDLER", "UNISEX", "WOMEN"
 
 Sender mail needs to have two factor authentication.
+
 This script has been made possible by an api: [The Sneaker Database](https://app.swaggerhub.com/apis-docs/tg4solutions/the-sneaker-database/1.0.0)
 
 ## Updates
