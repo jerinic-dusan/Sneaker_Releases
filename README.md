@@ -24,7 +24,7 @@ Possible genders are: "CHILD", "INFANT", "MEN", "PRESCHOOL", "TODDLER", "UNISEX"
 
 Sender mail needs to have two factor authentication.
 
-This script has been made possible by an api: [The Sneaker Database](https://app.swaggerhub.com/apis-docs/tg4solutions/the-sneaker-database/1.0.0)
+This script has been made possible by this api: [The Sneaker Database](https://app.swaggerhub.com/apis-docs/tg4solutions/the-sneaker-database/1.0.0)
 
 ## Updates
 The app will possibly get updates that include more modular options for getting desired sneakers.
